@@ -1,1 +1,1 @@
-Practicing making a simple kanban app using Redux.
+Practicing making a simple kanban app using Redux, and writing unit tests
